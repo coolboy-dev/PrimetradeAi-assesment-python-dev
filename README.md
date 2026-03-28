@@ -12,7 +12,6 @@ Short answer: it does. Fear days are weird. More on that below.
 ├── sentiment_analysis_final.ipynb   ← the Colab notebook
 ├── data/
 │   ├── fear_greed_index.csv         ← daily sentiment scores + labels
-│   ├── historical_data.csv          ← raw trade history
 │   ├── merged_analysis.csv          ← cleaned output after merging
 │   ├── avg_pnl_by_sentiment.png     ← bar chart
 │   └── pnl_distribution.png         ← box plot
